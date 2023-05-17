@@ -3,7 +3,7 @@
 A NFT powered WebExtension ([Chrome](https://developer.chrome.com/docs/extensions/reference/), [FireFox](https://addons.mozilla.org/en-US/developers/), etc.) that provide the Finance solution for Twitter Web.
 
 <p align="center">
-<img width="655" src="./cz.png"><br/>
+<img width="655" src="./cz-twitter.png"><br/>
 </p>
 
 ## Features
