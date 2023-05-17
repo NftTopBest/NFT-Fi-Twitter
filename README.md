@@ -12,6 +12,7 @@ A NFT powered WebExtension ([Chrome](https://developer.chrome.com/docs/extension
 - [ ] User can comment on other user's twitter with encrypted content
 - [ ] User can pay with ERC20 Token to mint NFT that attach to any twitter content
 - [ ] User can unlock encrypted content while they have the relative NFT
+- [ ] Add Web3M
 
 ## Tech Features
 
