@@ -8,6 +8,13 @@ A NFT powered WebExtension ([Chrome](https://developer.chrome.com/docs/extension
 
 ## Features
 
+- [ ] User can post new twitter with encrypted content
+- [ ] User can comment on other user's twitter with encrypted content
+- [ ] User can pay with ERC20 Token to mint NFT that attach to any twitter content
+- [ ] User can unlock encrypted content while they have the relative NFT
+
+## Tech Features
+
 - ⚡️ **Instant HMR** - use **Vite** on dev (no more refresh!)
 - 🥝 Vue 3 - Composition API, [`<script setup>` syntax](https://github.com/vuejs/rfcs/blob/master/active-rfcs/0040-script-setup.md) and more!
 - 💬 Effortless communications - powered by [`webext-bridge`](https://github.com/antfu/webext-bridge) and [VueUse](https://github.com/antfu/vueuse) storage
